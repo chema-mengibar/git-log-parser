@@ -1,0 +1,1559 @@
+num_commits|author|email
+1740|Paul O’Shannessy|paul@oshannessy.com
+1110|Dan Abramov|dan.abramov@gmail.com
+477|Ben Alpert|ben@benalpert.com
+396|Ben Alpert|spicyjalapeno@gmail.com
+370|Sebastian Markbage|sema@fb.com
+359|Jim|jsproch@fb.com
+337|Ben Alpert|balpert@fb.com
+316|Brian Vaughn|brian.david.vaughn@gmail.com
+306|Sebastian Markbåge|sebastian@calyptus.eu
+264|Andrew Clark|acdlite@fb.com
+199|Andrew Clark|acdlite@me.com
+196|Cheng Lou|chenglou92@gmail.com
+167|Pete Hunt|pete@instagram.com
+159|Dominic Gannaway|trueadm@users.noreply.github.com
+135|Andrew Clark|git@andrewclark.io
+130|Christopher Chedeau|vjeuxx@gmail.com
+119|Ben Newman|bn@cs.stanford.edu
+111|petehunt|floydophone@gmail.com
+109|Thomas Aylott|aylott@fb.com
+98|CommitSyncScript|jeffmo@fb.com
+85|Nathan Hunzaker|nate.hunzaker@gmail.com
+79|Brian Vaughn|bvaughn@fb.com
+75|Jim|jsfb@github
+71|Andreas Svensson|andreas@syranide.com
+67|Flarnie Marchan|flarnie@users.noreply.github.com
+59|Toru Kobayashi|koba0004@gmail.com
+48|Tim Yung|yungsters@fb.com
+47|Timothy Yung|yungsters@gmail.com
+46|Brandon Dail|aweary@users.noreply.github.com
+45|Shim Won|marocchino@gmail.com
+43|Sophie Alpert|git@sophiebits.com
+41|Vjeux|vjeuxx@gmail.com
+39|Kohei TAKATA|kt.koheitakata@gmail.com
+38|cpojer|christoph.pojer@gmail.com
+36|Christopher Chedeau|vjeux@fb.com
+36|Paul O'Shannessy|poshannessy@fb.com
+31|petehunt|pete.hunt@fb.com
+29|Dan Abramov|gaearon@fb.com
+28|Keyan Zhang|root@keyanzhang.com
+27|Nicolas Gallagher|nicolasgallagher@gmail.com
+26|Cheng Lou|chenglou@fb.com
+26|Dominic Gannaway|dg@domgan.com
+25|chico|chi187@gmail.com
+23|Benjamin Woodruff|bgw@fb.com
+22|Pete Hunt|pete.hunt@fb.com
+21|Ben Newman|benjamn@fb.com
+21|Connor McSheffrey|connor.mcsheffrey@gmail.com
+21|Isaac Salier-Hellendag|isaac@fb.com
+20|Brandon Dail|Aweary@users.noreply.github.com
+20|Christoph Pojer|christoph.pojer@gmail.com
+20|yungsters|yungsters@fb.com
+19|Josh Duck|josh@fb.com
+19|Sasha Aickin|xander76@yahoo.com
+17|Dustan Kasten|dustan.kasten@gmail.com
+17|Jason Quense|monastic.panic@gmail.com
+16|Nicolas Gallagher|necolas@fb.com
+15|Bartosz Kaszubowski|gosimek@gmail.com
+15|Heaven|ne_smalltown@163.com
+15|Raphael Amorim|rapha850@gmail.com
+14|Charles Marsh|charlie@khanacademy.org
+14|Sebastian Markbåge|sema@fb.com
+14|Stefan Dombrowski|sdo451@gmail.com
+14|iamchenxin|iamchenxin@gmail.com
+13|Fabio M. Costa|fabiomcosta@gmail.com
+13|Jeff Morrison|Jeff@anafx.com
+13|Jinwoo Oh|arkist@gmail.com
+12|Brandon Dail|brandon.dail@formidable.com
+12|Marshall Roch|mroch@fb.com
+12|Philipp Spieß|hello@philippspiess.com
+12|Tom Occhino|tomocchino@gmail.com
+12|fisherwebdev|fisherwebdev@gmail.com
+12|jim|none@no-reply.com
+11|Andrew Clark|github@andrewclark.io
+11|Eli White|github@eli-white.com
+11|Ivan Zotov|ivanzotov@gmail.com
+11|Sunil Pai|threepointone@oculus.com
+10|Alex Smith|iqwz@ya.ru
+10|Dan|dan.abramov@gmail.com
+10|Lee Byron|lee@leebyron.com
+10|Paul Shen|paul@mnml0.com
+9|Andrey Popp|8mayday@gmail.com
+9|Clement Hoang|clement.hoang24@gmail.com
+9|Daniel Lo Nigro|daniel@dan.cx
+9|Ingvar Stepanyan|me@rreverser.com
+9|Jared Forsyth|jared@jaredforsyth.com
+9|Joe Critchley|joecritch@gmail.com
+9|Nate Hunzaker|nate.hunzaker@gmail.com
+9|Rauno Freiberg|freiberggg@gmail.com
+9|Rick Beerendonk|rick@beerendonk.com
+9|Simen Bekkhus|sbekkhus91@gmail.com
+9|jim|jsproch@fb.com
+9|yiminghe|yiminghe@gmail.com
+8|Andrey Safronov|a.safronov87@gmail.com
+8|Cam Song|neosoyn@gmail.com
+8|Daniel Lo Nigro|danlo@fb.com
+8|Edvin Erikson|edvin@rocketblast.com
+8|Henry Zhu|hi@henryzoo.com
+8|Jonas Gebhardt|jonas@instagram.com
+8|Jordan Walke|jordanjcw@fb.com
+8|Mateusz Burzyński|mateuszburzynski@gmail.com
+8|SanderSpies|sandermail@gmail.com
+8|Scott Feeney|scott@oceanbase.org
+8|Sophie Alpert|sophiebits@fb.com
+8|ray|ray@tomo.im
+7|Andreas Savvides|asavvides@twitter.com
+7|Andres Suarez|zertosh@gmail.com
+7|Andrew Davey|andrew@equin.co.uk
+7|Baraa Hamodi|bhamodi@uwaterloo.ca
+7|Christoph Pojer|cpojer@fb.com
+7|Jan Kassens|jkassens@fb.com
+7|JeffMo|jeffmo@fb.com
+7|Sunil Pai|threepointone@fb.com
+7|Tay Yang Shun|tay.yang.shun@gmail.com
+6|Alexander Solovyov|alexander@solovyov.net
+6|Austin Wright|aaa@bzfx.net
+6|Ben Ripkens|bripkens.dev@gmail.com
+6|Bradley Spaulding|brad.spaulding@gmail.com
+6|Frankie Bagnardi|f.bagnardi@gmail.com
+6|Jon Tewksbury|jontewks@gmail.com
+6|Kunal Mehta|k.mehta@berkeley.edu
+6|Leon Yip|lyip1992@users.noreply.github.com
+6|Maksim Markelov|maks-markel@mail.ru
+6|Masaki KOBAYASHI|makky.4d6b.3f5@gmail.com
+6|Matthew Dapena-Tretter|m@tthewwithanm.com
+6|Max|contact@mstoiber.com
+6|PNikray|poujanik@gmail.com
+6|Pedro Nauck|pedronauck@gmail.com
+6|Raito Bezarius|masterancpp@gmail.com
+6|Taeho Kim|dittos@gmail.com
+6|Thomas Aylott|oblivious@subtlegradient.com
+6|mzabriskie|mzabriskie@gmail.com
+6|syranide|andreas@syranide.com
+5|Abhay Nikam|nikam.abhay1@gmail.com
+5|Alex Taylor|alexmckenley@gmail.com
+5|Alexey Raspopov|oleksii.raspopov@gmail.com
+5|Clay Allsopp|clay.allsopp@gmail.com
+5|Connor McSheffrey|c@conr.me
+5|Dmitrii Abramov|dmitrii@abramov.io
+5|Eric O'Connell|eric.oconnell@idealist.org
+5|Greg Hurrell|glh@fb.com
+5|Jack Ford|jford8820@gmail.com
+5|Johannes Baiter|johannes.baiter@gmail.com
+5|Joshua Ma|me@joshma.com
+5|Julen Ruiz Aizpuru|julenx@gmail.com
+5|Keito Uchiyama|keito@fb.com
+5|Keyan Zhang|keyanz@fb.com
+5|Kunal Mehta|kunalm@fb.com
+5|Laurence Rowe|l@lrowe.co.uk
+5|Lee Jaeyoung|jaeyoung@monodiary.net
+5|Leonardo YongUk Kim|dalinaum@gmail.com
+5|Martin Jul|martin@mjul.com
+5|Mert Kahyaoğlu|mertkahyaoglu93@gmail.com
+5|Mitermayer Reis|mitermayer.reis@gmail.com
+5|Orta|orta.therox+github@gmail.com
+5|Preston Parry|ClimbsRocks@users.noreply.github.com
+5|Robin Ricard|ricard.robin@gmail.com
+5|Sam Balana|sam.balana@ardentacademy.com
+5|jddxf|740531372@qq.com
+4|Aaron Franks|aaron.franks@gmail.com
+4|Abdul Rauf|abdulraufmujahid@gmail.com
+4|Almero Steyn|almero.steyn@gmail.com
+4|Andrew Zich|azich@fb.com
+4|Anthony van der Hoorn|anthony.vanderhoorn@gmail.com
+4|Bernard Lin|bernardlin12@gmail.com
+4|Brian Reavis|brian@thirdroute.com
+4|Chang Yan|cyan.binary@gmail.com
+4|Esteban|elas7@users.noreply.github.com
+4|Glen Mailer|glenjamin@gmail.com
+4|Hou Chia|kchia87@gmail.com
+4|Héctor Ramos|165856+hramos@users.noreply.github.com
+4|Ian Obermiller|ian@obermillers.com
+4|Jay Jaeho Lee|jay@spoqa.com
+4|Joe Lim|xjlim@users.noreply.github.com
+4|Jon Beebe|jon.beebe@daveramsey.com
+4|Kiho · Cham|monkindey@163.com
+4|Kyle Mathews|mathews.kyle@gmail.com
+4|Manas|prometheansacrifice@gmail.com
+4|Matt Harrison|mt.harrison86@gmail.com
+4|Matteo Vesprini-Heidrich|matteo.vesprini-heidrich@originate.com
+4|Matthew Johnston|matthewjohnston4@users.noreply.github.com
+4|Michał Pierzchała|thymikee@gmail.com
+4|Moti Zilberman|motiz88@gmail.com
+4|Naman Goel|naman34@gmail.com
+4|Nathan Quarles|nateq314@gmail.com
+4|Nicole Levy|seriff@protonmail.com
+4|Paul Seiffert|paul.seiffert@gmail.com
+4|Paul Shen|paulshen@fb.com
+4|Robert Haritonov|r@rhr.me
+4|Scott Feeney|smf@fb.com
+4|Soo Jae Hwang|misoguy1985@gmail.com
+4|Sotiris Kiritsis|kiritsis.sotiris@gmail.com
+4|Spencer Ahrens|sahrens@users.noreply.github.com
+4|Sunil Pai|threepointone@gmail.com
+4|Thomas Broadley|buriedunderbooks@hotmail.com
+4|Troy DeMonbreun|github@troyd.net
+4|cbrwizard|cbrwizard@gmail.com
+4|hejld|daniel.hejl@hotmail.com
+4|jeffmo|jeff@anafx.com
+4|ngavalas|njg57@cornell.edu
+4|volkanunsal|spocksplanet@gmail.com
+4|凌恒|jiakun.dujk@alibaba-inc.com
+3|Alan deLevie|adelevie@gmail.com
+3|Alex Cordeiro|accordeiro@users.noreply.github.com
+3|Alex Zherdev|alex.zherdev@gmail.com
+3|Alexander Tseung|alextsg@gmail.com
+3|Anushree Subramani|anushreesubramani@users.noreply.github.com
+3|Aria Buckles|aria@khanacademy.org
+3|Baraa Hamodi|baraa@optimizely.com
+3|Bill Fisher|fisherwebdev@gmail.com
+3|Bob Eagan|bob@synapsestudios.com
+3|Carl Mungazi|c_mungazi@hotmail.co.uk
+3|Deniz Susman|susmandeniz@gmail.com
+3|Diego Muracciole|diegomuracciole@gmail.com
+3|Dmitry Zhuravlev-Nevsky|dmitry.nevsky@gmail.com
+3|Domenico Matteo|matteo.domenico@gmail.com
+3|Edvin Erikson|edvinerikson@gmail.com
+3|Eric Nakagawa|ericnakagawa@gmail.com
+3|Felix Gnass|fgnass@gmail.com
+3|Greg Hurrell|greg@hurrell.net
+3|Greg Roodt|groodt@gmail.com
+3|Haroen Viaene|fingebimus@me.com
+3|Hugo Jobling|me@thisishugo.com
+3|Héctor Ramos|hramos@users.noreply.github.com
+3|Héliton Nordt|hnordt@hnordt.com
+3|Ian Obermiller|iano@fb.com
+3|Iurii Kucherov|yuyokk@gmail.com
+3|Ivan Babak|babak.john@gmail.com
+3|Ivan Kozik|ivan@ludios.org
+3|Jakub Malinowski|jakubmal@gmail.com
+3|Jamison Dance|jergason@gmail.com
+3|Jason Bonta|jasonbonta@fb.com
+3|Jason Bonta|jbonta@gmail.com
+3|Jason Williams|936006+jasonwilliams@users.noreply.github.com
+3|Jeff Morrison|jeffmo@fb.com
+3|Jeffrey Lin|jeffreylin@fb.com
+3|Jignesh Kakadiya|jigneshhk1992@gmail.com
+3|Jon Hester|jon.d.hester@gmail.com
+3|Jordan W|jordojw@gmail.com
+3|Joseph Savona|josephsavona@users.noreply.github.com
+3|Kent C. Dodds|kent@doddsfamily.us
+3|Kevin Lacker|kevin@parse.com
+3|Kevin Lau|thekevlau@gmail.com
+3|Lipis|lipiridis@gmail.com
+3|Maciej Kasprzyk|kapustka.maciek@gmail.com
+3|Mark IJbema|markijbema@gmail.com
+3|Matias Singers|mail@matiassingers.com
+3|Maël Nison|nison.mael@gmail.com
+3|Michael Ridgway|mcridgway@gmail.com
+3|Michael Ridgway|mridgway@yahoo-inc.com
+3|Miller Medeiros|miller@millermedeiros.com
+3|Mouad Debbar|mdebbar@fb.com
+3|Murad|rogozhnikoff@users.noreply.github.com
+3|Nick Raienko|enaqxx@gmail.com
+3|Nik Nyby|nnyby@columbia.edu
+3|Ning Xia|ning-github@users.noreply.github.com
+3|Nuno Campos|nuno@crowdprocess.com
+3|Pascal Hartig|passy@twitter.com
+3|Philipp|hello@philippspiess.com
+3|Piper Chester|piperchester@gmail.com
+3|Richard Wood|rwoodnz@gmail.com
+3|Sam Balana|sambalana247@gmail.com
+3|Sam Beveridge|sbeveridge@saltstack.com
+3|Sergey Rubanov|chi187@gmail.com
+3|Shane O'Sullivan|shaneosullivan1@gmail.com
+3|Steven Luscher|steveluscher@users.noreply.github.com
+3|Timothy Yung|yungsters@fb.com
+3|Tomasz Kołodziejski|tkolodziejski@gmail.com
+3|Trevor Smith|trevorlynnsmith@gmail.com
+3|Ville Immonen|ville.immonen@iki.fi
+3|Vipul A M|vipulnsward@gmail.com
+3|Whien|sal95610@gmail.com
+3|XuefengWu|benewu@gmail.com
+3|Yangshun Tay|tay.yang.shun@gmail.com
+3|conorhastings|conor@socialtables.com
+3|hkal|hkal@users.noreply.github.com
+3|jeffmo|lbljeffmo@gmail.com
+3|remixz|zbruggeman@me.com
+3|zwhitchcox|zwhitchcox@gmail.com
+2|Adam Mark|adammark75@gmail.com
+2|Adrian Carolli|adrian.caarolli@gmail.com
+2|Alan Plum|me@pluma.io
+2|Alex Boatwright|drdelambre@gmail.com
+2|Alexey Raspopov|avenger7x13@gmail.com
+2|Andrey Marchenko|tom910ru@gmail.com
+2|Antonio Ruberto|anto.ruberto@gmail.com
+2|Ants|anto.aravinth.cse@gmail.com
+2|Antti Ahti|antti.ahti@gmail.com
+2|António Nuno Monteiro|anmonteiro@gmail.com
+2|Areeb Malik|areeb.malik91@gmail.com
+2|Artem Nezvigin|artem@artnez.com
+2|Arthur Gunn|arthur@gunn.co.nz
+2|Basarat Ali Syed|basaratali@gmail.com
+2|Behzad Abbasi|behzad888@users.noreply.github.com
+2|Ben Moss|ben@mossity.com
+2|Brandon Bloom|brandon@brandonbloom.name
+2|Brandon Tilley|brandon@brandontilley.com
+2|Brian Emil Hartz|brianhartz@gmail.com
+2|Brian Holt|btholt@gmail.com
+2|Brian Kung|brian@callmekung.com
+2|Brian Rue|brian@rollbar.com
+2|C. T. Lin|chentsulin@gmail.com
+2|Caleb Meredith|calebmeredith8@gmail.com
+2|Cartas|Livesey7@hotmail.co.uk
+2|Chris Sciolla|csciolla1@gmail.com
+2|Christian Alfoni|christianalfoni@gmail.com
+2|Christoph Nakazawa|christoph.pojer@gmail.com
+2|Christopher Monsanto|chris@monsan.to
+2|Clark Du|clark.duxin@gmail.com
+2|Clement Hoang|clemmy@fb.com
+2|Daniel Friesen|daniel@nadir-seen-fire.com
+2|Daniel Gasienica|daniel@gasienica.ch
+2|Daniel Rodgers-Pryor|djrodgerspryor@gmail.com
+2|David Hu|davidhu91@gmail.com
+2|David Percy|davetp425@gmail.com
+2|Dean Brophy|dean.brophy@gmail.com
+2|Elaine Fang|elainefang@Elaines-MacBook-Pro.local
+2|Enguerran|engcolson@gmail.com
+2|Eric Florenzano|floguy@gmail.com
+2|Erik Hellman|iam@erikhellman.com
+2|Esteban|lasesteban@gmail.com
+2|Ethan Arrowood|ethan.arrowood@gmail.com
+2|Fabio Costa|fabs@fb.com
+2|Farhad Yasir|farhad.yasir.nb@gmail.com
+2|Felipe Oliveira Carvalho|felipekde@gmail.com
+2|Fernando Montoya|montogeek@gmail.com
+2|Fernando Poumian|fpoumian@gmail.com
+2|Filipp Riabchun|talpa@yandex.ru
+2|G Scott Olson|gscottolson@gmail.com
+2|G. Kay Lee|balancetraveller+github@gmail.com
+2|Gant Laborde|gantman@gmail.com
+2|Gareth Nicholson|gareth.nic@gmail.com
+2|Gordon Dent|gordonmdent@gmail.com
+2|Grant Timmerman|granttimmerman@gmail.com
+2|Ilya Gelman|ilyagelman@ilyagelman.com
+2|Ivan Vergiliev|ivan.vergiliev@gmail.com
+2|J. Renée Beach|splendidnoise@gmail.com
+2|Jackson Huang|jackson888888@gmail.com
+2|Jake Worth|jakeworth82@gmail.com
+2|James Ide|ide@users.noreply.github.com
+2|James Long|longster@gmail.com
+2|James Pearce|jpearce@fb.com
+2|Jamie Wong|jamie.lf.wong@gmail.com
+2|Jan Hancic|jan.hancic@gmail.com
+2|Jan Kassens|jan@kassens.net
+2|Jean Lauliac|lauliacj@gmail.com
+2|Jed Watson|jed.watson@me.com
+2|Jeff Morrison|lbljeffmo@gmail.com
+2|John-David Dalton|john.david.dalton@gmail.com
+2|Jon Scott Clark|jonscottclark@gmail.com
+2|Jordan Harband|ljharb@gmail.com
+2|Jordan Tepper|jstepper91@gmail.com
+2|Jordan Walke|jordojw@gmail.com
+2|Joseph|jngugi88@gmail.com
+2|Joseph Nudell|joenudell@gmail.com
+2|Joseph Savona|joesavona@fb.com
+2|Josh Duck|github@joshduck.com
+2|Julien Bordellier|git@julienbordellier.com
+2|Julio Lopez|ljuliom@gmail.com
+2|Jun Kim|i2r.jun@gmail.com
+2|Juraj Dudak|jdudak@fb.com
+2|Kent C. Dodds|kent+github@doddsfamily.us
+2|Kevin Coughlin|kevincoughlin@tumblr.com
+2|Kevin Gozali|fkgozali@users.noreply.github.com
+2|Kevin Huang|kevinziwenhuang@gmail.com
+2|Kevin Lacker|lacker@gmail.com
+2|Kevin Old|kevin@kevinold.com
+2|Kirk Steven Hansen|hanski07@kirk-hansens-macbook.local
+2|Kunuk Nykjær|kunukn@gmail.com
+2|Lei|tendant@gmail.com
+2|Leland Richardson|leland.m.richardson@gmail.com
+2|Levi Buzolic|levibuzolic@gmail.com
+2|Lucas|AgtLucas@users.noreply.github.com
+2|Maksim Shastsel|max.shastik@yandex.ru
+2|Mariano Desanze|protronm@gmail.com
+2|Marjan|marjan.georgiev@gmail.com
+2|Mark Funk|mark@boomtownroi.com
+2|Mark Funk|mfunk86@gmail.com
+2|Marshall Bowers|elliott.codes@gmail.com
+2|Martin Hujer|mhujer@gmail.com
+2|Mathieu M-Gosselin|mathieumg@gmail.com
+2|Md Zubair Ahmed|ahmedzubair216@gmail.com
+2|Michael McDermott|michael@mgmcdermott.com
+2|Michael Randers-Pehrson|michael.rp@gmail.com
+2|Michal Srb|xixixao@seznam.cz
+2|Michał Gołębiowski-Owczarek|m.goleb@gmail.com
+2|Michał Matyas|github@higher.lv
+2|Mihai Parparita|mihai@persistent.info
+2|Mike D Pilsbury|mike.pilsbury@gmail.com
+2|Miles Johnson|mileswjohnson@gmail.com
+2|Minh Nguyen|minhnguyenxx@gmail.com
+2|Murtaza Haveliwala|murtaza.sh@gmail.com
+2|Nadia Osipova|nadia.github@gmail.com
+2|Nathan White|nw@nwhite.net
+2|Neo|nihgwu@live.com
+2|Nic Bonetto|nick.bonetto@gmail.com
+2|Nicholas Bergson-Shilcock|me@nicholasbs.net
+2|Nick Thompson|nickt@instagram.com
+2|Nick Williams|WickyNilliams@users.noreply.github.com
+2|Oiva Eskola|oiva.eskola@gmail.com
+2|Oleg|o.yanchinskiy@gmail.com
+2|Oliver Zeigermann|oliver.zeigermann@gmail.com
+2|Orjiewuru Kingdom Isaac|kingdom.orjiewuru@andela.com
+2|Pablo Lacerda de Miranda|pablolm@yahoo-inc.com
+2|Pieter De Baets|pieter.debaets@gmail.com
+2|Pieter Vanderwerff|pieter@heyday.co.nz
+2|Piotr Czajkowski|czajkowski.piotr@gmail.com
+2|Prathamesh Sonpatki|csonpatki@gmail.com
+2|Prayag Verma|prayag.verma@gmail.com
+2|Rafal Dittwald|rafal.dittwald@gmail.com
+2|Ragnar Þór Valgeirsson|ragnar.valgeirsson@gmail.com
+2|Rajendra arora|rajendraarora16@yahoo.com
+2|Ram Kaniyur|quadrupleslap@users.noreply.github.com
+2|Ray|ray@tomo.im
+2|Ray Dai|exiadbq@gmail.com
+2|Richard Feldman|richard.t.feldman@gmail.com
+2|Richard Feldman|richard@noredink.com
+2|Richard Littauer|richard.littauer@gmail.com
+2|Richie Thomas|rickthomas1980@gmail.com
+2|Rick Hanlon II|rickhanlonii@gmail.com
+2|Riley Tomasek|riley.tomasek@gmail.com
+2|Robert Knight|robert.knight@mendeley.com
+2|Robin Berjon|robin@berjon.com
+2|Roderick Hsiao|roderickhsiao@users.noreply.github.com
+2|Rodrigo Pombo|pombopombopombo@gmail.com
+2|Roman Matusevich|roma.matusevich@gmail.com
+2|Ronald Eddy Jr|ronald_eddy@yahoo.com
+2|Sam Selikoff|sam.selikoff@gmail.com
+2|Samuel Reed|samuel.trace.reed@gmail.com
+2|Scott Burch|scott@bulldoginfo.com
+2|Seba|sebaest77@gmail.com
+2|Sebastian McKenzie|sebmck@gmail.com
+2|Sebastian Silbermann|silbermann.sebastian@gmail.com
+2|Seyi Adebajo|hello@seyinanigans.com
+2|Shi Yan|yenshih95@gmail.com
+2|ShihChi Huang|hhuang@netflix.com
+2|Shinnosuke Watanabe|snnskwtnb@gmail.com
+2|Shripad K|assortmentofsorts@gmail.com
+2|Shubheksha Jalan|jshubheksha@gmail.com
+2|Simon Højberg|r.hackr@gmail.com
+2|Sriram Thiagarajan|sri.sjc@gmail.com
+2|Stephen Murphy|smurphy3@apple.com
+2|Steve Baker|_steve_@outlook.com
+2|Steven Luscher|github@steveluscher.com
+2|Steven Luscher|steveluscher@instagram.com
+2|Stoyan|ssttoo@ymail.com
+2|Sven Helmberger|fforw@gmx.de
+2|Sverre Johansen|sverre.johansen@gmail.com
+2|Sébastien Lorber|lorber.sebastien@gmail.com
+2|Sławomir Laskowski|laskowski.box@gmail.com
+2|Taehwan, No|taehwanno.dev@gmail.com
+2|Tanase Hagi|TanaseHagi@users.noreply.github.com
+2|Ted Kim|ted@vcnc.co.kr
+2|Teodor Szente|teodor98sz@gmail.com
+2|Thomas Shaddox|thomas@heyzap.com
+2|ThomasCrvsr|crevoisier.thomas@gmail.com
+2|Tim Jacobi|timjacobi@users.noreply.github.com
+2|Tim Routowicz|troutowicz@gmail.com
+2|Vasiliy|Yeti.or@gmail.com
+2|Victor Alvarez|v.alvarez312@gmail.com
+2|Vincent Riemer|vincentriemer@gmail.com
+2|Vitor Balocco|vitorbal@gmail.com
+2|Wildhoney|adam.timberlake@gmail.com
+2|YouBao Nong|noyobo@gmail.com
+2|Yu Tian|yu.tian113@gmail.com
+2|Yuichi Hagio|yhagio87@gmail.com
+2|ankitml|ankitml@gmail.com
+2|benhalpern|bendhalpern@gmail.com
+2|clariroid|clarinette.uranus@gmail.com
+2|dschafer|dschafer@fb.com
+2|eriklharper|eharper@mixpo.com
+2|everdimension|everdimension@gmail.com
+2|gitanupam|anupamjain@gmail.com
+2|guoyong yi|451417726@qq.com
+2|hanumanthan|hanu.sas@gmail.com
+2|hao.huang|hao.huang@aliyun.com
+2|hendrik swanepoel|hendrik.swanepoel@gmail.com
+2|imagentleman|imagentlemail@gmail.com
+2|jinmmd|jinmmd@gmail.com
+2|jordow|jordojw@gmail.com
+2|jpersson|jonathan.persson@creuna.se
+2|laoxiong|gebilaoxiong@gmail.com
+2|li.li|li.li@ele.me
+2|minwe|minwe@yunshipei.com
+2|noyobo|nongyoubao@alibaba-inc.com
+2|oluckyman|gelias.gbelsky@gmail.com
+2|plievone|plievone@cc.hut.fi
+2|rofrischmann|robin@rofrischmann.de
+2|ryota-murakami|dojce1048@gmail.com
+2|shawn wang|shawnthe1@gmail.com
+2|tokikuch|msmania@users.noreply.github.com
+2|tomocchino|tomocchino@gmail.com
+2|zombieJ|smith3816@gmail.com
+2|Árni Hermann Reynisson|arnihr@gmail.com
+1|243083df|243083df@dispostable.com
+1|3boll|j.mingov@3boll.com
+1|839|8398a7@gmail.com
+1|AGCB|oooalexoooo@gmail.com
+1|Aaron Ackerman|theron17@gmail.com
+1|Aaron Brager|getaaron@gmail.com
+1|Aaron Cannon|cannona@fireantproductions.com
+1|Aaron Gelter|aaron.gelter@harman.com
+1|Abhishek Soni|abhisheksoni2720@gmail.com
+1|Adam|gadtfly@users.noreply.github.com
+1|Adam Bloomston|adam@glitterfram.es
+1|Adam Comella|rigdern@users.noreply.github.com
+1|Adam Krebs|amk528@cs.nyu.edu
+1|Adam Solove|asolove@gmail.com
+1|Adam Stankiewicz|sheerun@sher.pl
+1|Adam Zapletal|adamzap@gmail.com
+1|Addy Osmani|addyosmani@gmail.com
+1|Adrian Sieber|mail@adriansieber.com
+1|Aesop Wolf|aesopwolf@users.noreply.github.com
+1|Ahmad Wali Sidiqi|wali-s@users.noreply.github.com
+1|Airam|airamrguez@users.noreply.github.com
+1|Alan Souza|alansouzati@gmail.com
+1|Alastair Hole|afhole@gmail.com
+1|Alec Larson|alec.stanford.larson@gmail.com
+1|Aleem|aleemullah.s@gmail.com
+1|Alex|itaieps+github@fastmail.fm
+1|Alex|ultrafez@users.noreply.github.com
+1|Alex Babkov|alex.babkov@rexsoftware.com.au
+1|Alex Baumgertner|alex.baumgertner@gmail.com
+1|Alex Boyd|alex@opengroove.org
+1|Alex Dajani|xelad1@gmail.com
+1|Alex Jacobs|lex.jacobs@gmail.com
+1|Alex Jegtnes|alex@jegtnes.com
+1|Alex Katopodis|akatopo@users.noreply.github.com
+1|Alex Lopatin|alex@alexlopatin.com
+1|Alex Rohleder|alexrohleder96@outlook.com
+1|Alex Zelenskiy|azelenskiy@fb.com
+1|Alex Zherdev|alex_zherdev@acl.com
+1|Alex Zherdev|azherdev@rocketfuel.com
+1|Alexander|alexander.chisler@gmail.com
+1|Alexander|alx.safari@gmail.com
+1|Alexander Shtuchkin|ashtuchkin@gmail.com
+1|Alexandre Gaudencio|shahor@shahor.fr
+1|Alexandre Kirszenberg|a.kirszenberg@gmail.com
+1|Alexey|frol.rage@gmail.com
+1|Alexey Shamrin|shamrin@gmail.com
+1|Ali Taheri Moghaddar|ali.taheri.m@gmail.com
+1|Ali Torki|ali_4286@live.com
+1|Ali Ukani|ali.ukani@gmail.com
+1|Aliaksandr Manzhula|manzhula.alex@gmail.com
+1|Alireza Mostafizi|ar.mostafizi@gmail.com
+1|Amanvir Sangha|amanvir@users.noreply.github.com
+1|Amjad Masad|amjad.masad@gmail.com
+1|Anastasia A|sacret@nm.ru
+1|Andre Giron|agiron123@gmail.com
+1|Andre Z Sanchez|andrezacsanchez@gmail.com
+1|Andreas|andreas@nibbli.com
+1|Andreas Möller|am@localheinz.com
+1|Andreas Savvides|AnSavvides@users.noreply.github.com
+1|Andres Kalle|mjomble@gmail.com
+1|Andres Rojas|andresroberto10@gmail.com
+1|Andrew Cherniavskii|andrew.cherniavskii@gmail.com
+1|Andrew Cobby|cobbweb@users.noreply.github.com
+1|Andrew Henderson|andrew.m.henderson@gmail.com
+1|Andrew Imm|aimm22@gmail.com
+1|Andrew Lo|andrew.lo@rangle.io
+1|Andrew Patton|andrew@acusti.ca
+1|Andrew Poliakov|pavlin99th@me.com
+1|Andrew Rasmussen|andras@fb.com
+1|Andrew Rota|rota.andrew@gmail.com
+1|Andreww8xx8|avk@8xx8.ru
+1|Andrey Okonetchnikov|okonet@users.noreply.github.com
+1|Andy Davies|ae.davies92@outlook.com
+1|Andy Edwards|jedwards@fastmail.com
+1|Ankeet Maini|ankeet.maini@gmail.com
+1|Anto|anto.aravinth.cse@gmail.com
+1|Anton Arboleda|aarboleda1@users.noreply.github.com
+1|Anton Korzunov|thekashey@gmail.com
+1|Anuj Tomar|ankuto@gmail.com
+1|Anuja Ware|anuja@joshsoftware.com
+1|AoDev|AoDev@users.noreply.github.com
+1|April Arcus|april.arcus@gmail.com
+1|Aria Stewart|aredridel@dinhe.net
+1|Arian Faurtosh|arian@icloud.com
+1|Arkist|arkist@gmail.com
+1|Arni Fannar|arnifa@gmail.com
+1|Arshabh Kumar Agarwal|arshabh.agarwal.it@gmail.com
+1|Artem Fitiskin|artemfitiskin@gmail.com
+1|Ashish|ashishgupta.3197@gmail.com
+1|Audy Tanudjaja|audytanudjaja@gmail.com
+1|Avinash Kondeti|avi.kondeti@gmail.com
+1|Ayman Osman|aymano.osman@gmail.com
+1|B.Orlov|bgnorlov@gmail.com
+1|BDav24|BDav24@users.noreply.github.com
+1|BEAUDRU Manuel|beaudru.manuel@gmail.com
+1|BJR Matos|bjrmatos@gmail.com
+1|Barry Michael Doyle|barrydoyle18@gmail.com
+1|Bartosz Gordon|bgord@users.noreply.github.com
+1|Battaile Fauber|battaile@gmail.com
+1|Beau Smith|beau@beausmith.com
+1|Ben Anderson|banderson@constantcontact.com
+1|Ben Berman|ben.m.berman@gmail.com
+1|Ben Brooks|ben@benbrooks.net
+1|Ben Foxall|benfoxall@gmail.com
+1|Ben Jaffe|jaffe.ben@gmail.com
+1|Benedikt Meurer|benedikt.meurer@googlemail.com
+1|Benedikt Meurer|bmeurer@google.com
+1|Benjamin Keen|ben.keen@gmail.com
+1|Benjamin Leiken|benleiken@gmail.com
+1|Benjamin Woodruff|github@benjam.info
+1|Benjy Cui|benjytrys@gmail.com
+1|Benoit Girard|b56girard@gmail.com
+1|Benton Rochester|bentonrochester@gmail.com
+1|Bernardo Smaniotto|be.smaniotto@gmail.com
+1|Bill Blanchard|bill@plumbdev.com
+1|Billy Janitsch|billyjanitsch@gmail.com
+1|Billy Shih|me@billyshih.com
+1|BinaryMuse|brandon@brandontilley.com
+1|Blaine Hatab|jbhatab@gmail.com
+1|Bob Ralian|bob.ralian@gmail.com
+1|Bob Renwick|bob.renwick@gmail.com
+1|Bobby|puppybytes@gmail.com
+1|Bogdan Chadkin|trysound@yandex.ru
+1|Bojan Mihelac|bmihelac@mihelac.org
+1|Boris Yankov|borisyankov@gmail.com
+1|Brad Vogel|bradavogel@gmail.com
+1|Bradford|brad.lamson@gmail.com
+1|Brenard Cubacub|bcbcb@users.noreply.github.com
+1|Brendan McLoughlin|bmac@users.noreply.github.com
+1|Brent Vatne|brentvatne@gmail.com
+1|Brian Cooke|bri@bricooke.com
+1|Brian Hsu|brianhsu@Brians-MacBook-Pro.local
+1|Brian Kim|briankimpossible@gmail.com
+1|Brian Ng|bng412@gmail.com
+1|Bruce Harris|bharris845@gmail.com
+1|Bruno Heridet|delapouite@gmail.com
+1|Bruno Škvorc|bruno@skvorc.me
+1|Bryan Braun|bbraun7@gmail.com
+1|Bryan M|ManueleBryan@gmail.com
+1|Bryce Kalow|br.kalow@gmail.com
+1|CT Wu|wu.chingting@gmail.com
+1|Cam Spiers|camspiers@gmail.com
+1|Cameron Chamberlain|git@camjc.com
+1|Cameron Matheson|cameron@instructure.com
+1|Carolina Powers|carolinapoloni@gmail.com
+1|Carter Chung|carterchung@users.noreply.github.com
+1|Cassus Adam Banko|banko.adam@gmail.com
+1|Cat Chen|catchen@fb.com
+1|Cedric Sohrauer|cedric.sohrauer@infopark.de
+1|Cesar William Alvarenga|cesarwbr@gmail.com
+1|Chad Fawcett|me@chadf.ca
+1|Charlie Garcia|cgarcia@intellisys.com.do
+1|Chase Adams|realchaseadams@gmail.com
+1|Chitharanjan Das|das.chitharanjan@gmail.com
+1|Chris|thisguychris@users.noreply.github.com
+1|Chris Bianca|me@chrisbianca.com
+1|Chris Bolin|bolin.chris@gmail.com
+1|Chris Grovers|chrisgrovers@users.noreply.github.com
+1|Chris Ha|chriskevinha@gmail.com
+1|Chris Pearce|hello@chrispearce.me
+1|Chris Rebert|github@rebertia.com
+1|Christian|christianoliff@yahoo.com
+1|Christian Roman|chroman16@gmail.com
+1|Christoffer Sawicki|christoffer.sawicki@gmail.com
+1|Christoph Nakazawa|cpojer@fb.com
+1|Christophe Hurpeau|christophe@hurpeau.com
+1|Claire L|iamchangxx@gmail.com
+1|Claudio Brandolino|cbrandolino@gmail.com
+1|Clay Miller|clay@smockle.com
+1|CodinCat|a55951234@gmail.com
+1|Cody Reichert|codyreichert@gmail.com
+1|Cody Wall|cody@cmwall.io
+1|Cole Turner|turner.cole@gmail.com
+1|Colin Wren|colinwren@users.noreply.github.com
+1|Conrad Irwin|conrad.irwin@gmail.com
+1|Constantin Gavrilete|cgav@users.noreply.github.com
+1|Cory House|housecor@gmail.com
+1|Cotton Hou|himcotton@gmail.com
+1|Craig Akimoto|strawbrary@users.noreply.github.com
+1|Cristovao Verstraeten|cristovao@apleasantview.com
+1|Crux|crux153@gmail.com
+1|DQNEO|dqneoo@gmail.com
+1|Dai Nguyen|dainguyenhuu@users.noreply.github.com
+1|Damian Nicholson|damian.nicholson21@gmail.com
+1|Damien Pellier|dpellier@leadformance.com
+1|Damien Soulard|iDams@users.noreply.github.com
+1|Dan Fox|iamdanfox@gmail.com
+1|Dan Nate|danpatnate@gmail.com
+1|DanZeuss|danvc@zeuss.com
+1|Daniel Carlsson|daniel.carlsson.1987@gmail.com
+1|Daniel Cousens|dcousens@users.noreply.github.com
+1|Daniel Gasienica|daniel@fiftythree.com
+1|Daniel Gasienica|dgasienica@zynga.com
+1|Daniel Hejl|hejldaniel@gmail.com
+1|Daniel Liburd|daniel.liburd@gmail.com
+1|Daniel Mané|danmane@gmail.com
+1|Daniel Miladinov|dmiladinov@wingspan.com
+1|Daniel Rosenwasser|DanielRosenwasser@users.noreply.github.com
+1|Daniel Rotter|daniel.rotter@gmail.com
+1|Daniel Schonfeld|daniel@schonfeld.org
+1|Daniela Borges|alunassertiva@gmail.com
+1|Danilo Vitoriano|vitoriano08@gmail.com
+1|Danny Ben-David|dannybd@fb.com
+1|Danny Hurlburt|dhurlburtusa@users.noreply.github.com
+1|Darcy|smadad@me.com
+1|Daryl Lau|daryl@weak.io
+1|Darío Javier Cravero|dario@uxtemple.com
+1|Dave|dave@jut.io
+1|Dave Garwacke|dave.garwacke@warbyparker.com
+1|Dave Lunny|d@velunny.com
+1|Dave Voyles|Dnvoyles@gmail.com
+1|David Aurelio|dev@david-aurelio.com
+1|David Baker|djbaker2@gmail.com
+1|David Beitey|david@davidjb.com
+1|David Ed Mellum|david@edmellum.com
+1|David Gilbertson|gilbertson.david@gmail.com
+1|David Goldberg|gberg1@users.noreply.github.com
+1|David Granado|davidjgranado@gmail.com
+1|David Greenspan|dgreenspan@alum.mit.edu
+1|David Hellsing|david@aino.se
+1|David Hu|davidhu314@gmail.com
+1|David Khourshid|davidkpiano@gmail.com
+1|David Mininger|dmininger@gmail.com
+1|David Neubauer|davidneub@gmail.com
+1|Dean Shi|dnshi@users.noreply.github.com
+1|DeepCold|deepcoldy@gmail.com
+1|Demian Dekoninck|demian@live.be
+1|Denis Laxalde|denis@laxalde.org
+1|Denis Pismenny|dpismenny@users.noreply.github.com
+1|Denis Sokolov|denis@sokolov.cc
+1|Deniss Jacenko|deniss.jacenko+github@gmail.com
+1|Dennis Johnson|djohnson@rallydev.com
+1|Desmond Brand|dmnd@desmondbrand.com
+1|Devedse|2350015+devedse@users.noreply.github.com
+1|Devinsuit|r.poryvaev@hotmail.com
+1|Devon Blandin|dblandin@gmail.com
+1|Devon Harvey|devonharvey@gmail.com
+1|Dheeraj Kumar|a.dheeraj.kumar@gmail.com
+1|Dhyey Thakore|dhyey35@gmail.com
+1|Dima Beznos|beznos.d@gmail.com
+1|Dimzel Sobolev|disobolev@icloud.com
+1|Dmitri Zaitsev|dmitri14@gmail.com
+1|Dmitrii Abramov|dmitrii@rheia.us
+1|Dmitriy Kubyshkin|grassator@gmail.com
+1|Dmitriy Rozhkov|dmitriy.rozhkov@xing.com
+1|Dmitry Mazuro|dmitry.mazuro@icloud.com
+1|Dmytro Zasyadko|dmytro@clevertech.biz
+1|Don Abrams|donabrams@gmail.com
+1|DouglasGimli|douglasgimli@gmail.com
+1|Duke Pham|dookpham@gmail.com
+1|Dustin Getz|dgetz@wingspan.com
+1|Dustin Masters|ceo@dustinsoftware.com
+1|Dylan Cutler|DCtheTall@users.noreply.github.com
+1|Dylan Harrington|dylanharrington@gmail.com
+1|Dylan Kirby|djkirby@users.noreply.github.com
+1|Edgar (Algebr)|edgar.factorial@gmail.com
+1|Eduard|ghinea.eduard@yahoo.com
+1|Eduardo Garcia|emumaniacx@gmail.com
+1|Eli White|eliwhite@fb.com
+1|Ellis Clayton|ellis@ellisclayton.info
+1|Ende93|ende93@hotmail.com
+1|Eoin Hennessy|eoin.hennessy@gmail.com
+1|Eric Churchill|eric.churchill2@gmail.com
+1|Eric Clemmons|eric@smarterspam.com
+1|Eric Douglas|eric.douglas.mail@gmail.com
+1|Eric Eastwood|contact@ericeastwood.com
+1|Eric Elliott|support@paralleldrive.com
+1|Eric Matthys|ericmatthys@gmail.com
+1|Eric Pitcher|ericpitcher@live.com
+1|Eric Sakmar|eric.sakmar@gmail.com
+1|Eric Schoffstall|contra@wearefractal.com
+1|Eric Soderberg|eric.soderberg@hpe.com
+1|Esben Sparre Andreasen|esben@sparreandreasen.dk
+1|Espen Hovlandsdal|rexxars@gmail.com
+1|Eugene|elforastero@ya.ru
+1|Eugene Zhlobo|ezhlobo@gmail.com
+1|EugeneGarbuzov|ridaim@yandex.ru
+1|Evan Jacobs|evan@yaycmyk.com
+1|Evan Jacobs|probablyup@gmail.com
+1|Evan Scott|glitterbyte@gmail.com
+1|Evan Vosberg|evanvosberg@urban.to
+1|FUJI Goro|g.psy.va@gmail.com
+1|Fabrizio Castellarin|f.castellarin@gmail.com
+1|Faheel Ahmad|faheel@live.in
+1|Fatih|frontsideair@users.noreply.github.com
+1|Fatos Morina|fatosi.morina@gmail.com
+1|Federico Rampazzo|frampone@gmail.com
+1|Felix Kling|felix.kling@gmx.net
+1|Felix Kling|fkling@fb.com
+1|Felix Wu|mail@flxwu.com
+1|Fernando Alex Helwanger|fhelwanger@gmail.com
+1|Fernando Correia|fernando@servicero.com
+1|Filip Hoško|filiphosko@gmail.com
+1|Filip Spiridonov|filip.spiridonov@gmail.com
+1|Flarnie Marchan|fnonemaker@gmail.com
+1|Floris Doolaard|floris.do@gmail.com
+1|Fokke Zandbergen|mail@fokkezb.nl
+1|Frank Yan|fryn@users.noreply.github.com
+1|François Chalifour|francoischalifour@users.noreply.github.com
+1|Fraser Haer|fraser.haer@hotmail.com
+1|Fred Zhao|fredz@fb.com
+1|Freddy Rangel|frederick.rangel@gmail.com
+1|Fredrik Höglund|fredrik.hoglund@gmail.com
+1|Fumiya Shibusawa|shibusawa@basicinc.jp
+1|Gabe Levi|gabelevi@gmail.com
+1|Gabe Levi|glevi@fb.com
+1|Gabriel Kalani|gabrielsilva1956@gmail.com
+1|Gabriel Lett Viviani|gm.lett@gmail.com
+1|Gajus Kuizinas|g.kuizinas@anuary.com
+1|Gareth Small|32682373+GarethSmall@users.noreply.github.com
+1|Garmash Nikolay|garmash.nikolay@gmail.com
+1|Garren Smith|garren.smith@gmail.com
+1|Garrett McCullough|gwmccull@yahoo.com
+1|Gary Wang|webyom@gmail.com
+1|Gavin McQuistin|gavin@kickfiredesign.com
+1|Gaëtan Renaudeau|renaudeau.gaetan@gmail.com
+1|Geert-Jan Brits|gbrits@gmail.com
+1|George A Sisco III|george.sisco@gmail.com
+1|Georgios Giannoutsos Barkas|contact@nuc.gr
+1|Gert Hengeveld|info@ghengeveld.nl
+1|Giamir Buoncristiani|giamir@thoughtworks.com
+1|Gil Chen-Zion|gilchenzion@users.noreply.github.com
+1|Gilbert|gilbertbgarza@gmail.com
+1|Giorgio Polvara|polvara@gmail.com
+1|Giuseppe|ggurgone@gmail.com
+1|Goffert van Gool|ruphin@ruphin.net
+1|Greg Myers|neonmd@hotmail.co.uk
+1|Greg Palmer|g-palmer@users.noreply.github.com
+1|Greg Perkins|gregrperkins@fb.com
+1|Gregory|g.marcilhacy@gmail.com
+1|Grey Baker|greysteil@gmail.com
+1|Grgur Grisogono|grguru@gmail.com
+1|Griffin Michl|griffinmichl@gmail.com
+1|Guangqiang Dong|gqdong@fb.com
+1|Guido Bouman|m@guido.vc
+1|Guilherme Oenning|me@goenning.net
+1|Guilherme Ruiz|guiiruiz@hotmail.com
+1|Guillaume Claret|guillaume@ouicar.fr
+1|Gustavo Gard|gusgard@gmail.com
+1|Gustavo Saiani|gustavo.saiani@emcasa.com
+1|Haisheng Wu|haisheng.wu@okta.com
+1|HardikModha|hardik.modha@causecode.com
+1|Harry Marr|harry.marr@gmail.com
+1|Harry Moreno|morenoh149@gmail.com
+1|Harshad Sabne|harshadsabne@users.noreply.github.com
+1|Hekar Khani|hekark@gmail.com
+1|Hendrik Liebau|mail@hendrik-liebau.de
+1|Henrik Nyh|henrik@nyh.se
+1|Henry Harris|henrythomasharris@gmail.com
+1|Henry Wong|henryw4k@gmail.com
+1|Hideo Matsumoto|hideo-m@pekeq.com
+1|Hikaru Suido|hikaru.suido@gmail.com
+1|Hilbrand Bouwkamp|hilbrand@h72.nl
+1|Hiroyuki Wada|wadahiro@gmail.com
+1|Huang-Wei Chang|chang.huangwei.01@gmail.com
+1|Hugo Agbonon|hugo@agbonon.fr
+1|Iacami Gevaerd|enapupe@gmail.com
+1|Ian Sutherland|ian@iansutherland.ca
+1|Ideveloper|zx6658@naver.com
+1|Ignacio Carbajo|icarbajop@gmail.com
+1|Igor Scekic|igorscekic2@gmail.com
+1|Ike Peters|ikedpeters21@gmail.com
+1|Ilja Daderko|IljaDaderko@users.noreply.github.com
+1|Ilya Shuklin|ilya.shuklin@gmail.com
+1|Imre Osswald|ioss@users.noreply.github.com
+1|Irae|irae@irae.pro.br
+1|Isaiah Nields|imnields@gmail.com
+1|Islam Sharabash|islam.sharabash@gmail.com
+1|Ivan|15101126742@163.com
+1|Ivan|janczer@users.noreply.github.com
+1|Ivan Krechetov|ikr@ikr.su
+1|Ivan Starkov|istarkov@gmail.com
+1|IvanVergiliev|ivan.vergiliev@gmail.com
+1|J. Andrew Brassington|jabbrass@zoho.com
+1|JD Isaacks|jd@jisaacks.com
+1|JW|JW00000@gmail.com
+1|Jack|jack@jackmarchant.com
+1|Jack Cross|jackjocross@gmail.com
+1|Jack Hou|ctxhou@gmail.com
+1|Jack Zhang|jzhang31191@gmail.com
+1|Jackie Wung|jacquelinewung@gmail.com
+1|Jacob Gable|jacob.gable@gmail.com
+1|Jacob Greenleaf|jake@imgur.com
+1|Jacob Lamont|cob@jacoblamont.com
+1|Jae Hun Lee|jaehlee11@gmail.com
+1|JaeHunRo|jhr24@duke.edu
+1|Jaeho Lee|me@jaeholee.org
+1|Jake Boone|jakeboone02@gmail.com
+1|James|james@mystrata.com
+1|James Burnett|jtburnett@tribune.com
+1|James Friend|james@jsdf.co
+1|James Ide|ide@fb.com
+1|James Reggio|james.reggio@gmail.com
+1|James Seppi|james.seppi@gmail.com
+1|James South|james_south@hotmail.com
+1|James Wen|jrw2175@columbia.edu
+1|Jamis Charles|jacharles@paypal.com
+1|Jamison Dance|hi@jamison.dance
+1|Jan Hancic|jan.hancic@caplin.com
+1|Jan Pöschko|jan@poeschko.com
+1|Jan Raasch|jan@janraasch.com
+1|Jan Schär|jscissr@gmail.com
+1|Jane Manchun Wong|wongmjane@icloud.com
+1|Jared Fox|jalexanderfox@gmail.com
+1|Jared Palmer|jaredloganpalmer@gmail.com
+1|Jarrod Mosen|jarrod.mosen@me.com
+1|Jason|usaman2010us@gmail.com
+1|Jason Grlicky|jgrlicky@gmail.com
+1|Jason Ly|jason.ly@gmail.com
+1|Jason Miller|aidenn0@geocities.com
+1|Jason Miller|developit@users.noreply.github.com
+1|Jason O'Neil|jason.oneil@gmail.com
+1|Jason Webster|jason@metalabdesign.com
+1|Jay Phelps|hello@jayphelps.com
+1|Jayen Ashar|jayenashar@users.noreply.github.com
+1|Jeff Barczewski|jeff.barczewski@gmail.com
+1|Jeff Carpenter|gcarpenterv@gmail.com
+1|Jeff Chan|jeff@quizlet.com
+1|Jeff Chan|jefftchan@gmail.com
+1|Jeff Hicken|jhicken@gmail.com
+1|Jeff Kolesky|github@kolesky.com
+1|Jeff Welch|whatthejeff@gmail.com
+1|Jeffrey Berry|jeffreyberry93@gmail.com
+1|Jeffrey Lin|lin.jeffrey@gmail.com
+1|Jeffrey Wan|jeffrey.wan@blueapron.com
+1|Jeffrey Zhang|jzhang11235@gmail.com
+1|Jen Wong|jenjwong@gmail.com
+1|Jeremias Menichelli|jmenichelli@gmail.com
+1|Jeremy Fairbank|elpapapollo@gmail.com
+1|Jess Telford|jess+github@jes.st
+1|Jesse Skinner|jesse@thefutureoftheweb.com
+1|Jessica Franco|jessicamfranco3@gmail.com
+1|Jiawen Geng|technicalcute@gmail.com
+1|Jifa Jiang|thaddeusjiang@gmail.com
+1|Jim OBrien|jimobrien930@gmail.com
+1|Jiminikiz|jiminikiz@users.noreply.github.com
+1|Jimmy Jea|jimjea@gmail.com
+1|Jing Chen|jingc@fb.com
+1|Jinto Jose|jintoppy@gmail.com
+1|Jinxiu|lee.jinxiu@gmail.com
+1|Jirat Ki|saakyz@gmail.com
+1|Jody McIntyre|scjody@modernduck.com
+1|Joe Cortopassi|joe@joecortopassi.com
+1|Joe Stein|joeaarons@gmail.com
+1|Joel Auterson|joel.auterson@googlemail.com
+1|Joel Denning|joeldenning@gmail.com
+1|Joel Sequeira|joelseq96@gmail.com
+1|Johan Henriksson|johan.c.henriksson@gmail.com
+1|Johan Tinglöf|karljohantinglof@gmail.com
+1|Johannes Emerich|johannes@emerich.de
+1|Johannes Lumpe|johannes@johanneslumpe.de
+1|John Darryl Pelingo|john-d-pelingo@users.noreply.github.com
+1|John Heroy|johnheroy@users.noreply.github.com
+1|John Leidegren|john@leidegren.se
+1|John Lin|johnlinp@gmail.com
+1|John Longanecker|johnlonganecker@gmail.com
+1|John Ryan|tjfryan@fb.com
+1|John Watson|jwatson@fb.com
+1|Johnson|shijianyue47@gmail.com
+1|Jon Bretman|jon.bretman@gmail.com
+1|Jonas Enlund|jonas.enlund@gmail.com
+1|Jonathan Persson|persson.jonathan@gmail.com
+1|Jonathan Silvestri|silvestrijonathan@gmail.com
+1|Jordan Rome|jordan@jordanrome.com
+1|Jorrit Schippers|jorrit@ncode.nl
+1|Joseph Lin|josephlin55555@gmail.com
+1|Josh Bassett|josh.bassett@gmail.com
+1|Josh Hawkins|hawkins@users.noreply.github.com
+1|Josh Hunt|josh@trtr.co
+1|Josh Perez|josh.perez@airbnb.com
+1|Josh Perez|josh@goatslacker.com
+1|Josh R|38544454+JoshuaScript@users.noreply.github.com
+1|Josh Yudaken|yud@instagram.com
+1|Joshua|tank158r5155@yahoo.com.tw
+1|Joshua Evans|joshua.evans@quantified.co
+1|Joshua Go|joshuago@gmail.com
+1|Joshua Goldberg|jsgoldberg90@gmail.com
+1|João Valente|filipevalente@gmail.com
+1|Juan|juan@juansoto.me
+1|Julian Viereck|julian.viereck@gmail.com
+1|Jun, WU|quark@lihdd.net
+1|Justas Brazauskas|brazauskasjustas@gmail.com
+1|Justin|abigsmall@users.noreply.github.com
+1|Justin Grant|justingrant@users.noreply.github.com
+1|Justin Jaffray|justinjaffray@khanacademy.org
+1|Justin Woo|moomoowoo@gmail.com
+1|Jérôme Steunou|jerome.steunou+github@gmail.com
+1|KB|karol.borkowski@syzygy.pl
+1|Kale|krydrogen@gmail.com
+1|Kamron Batman|kamronbatman@users.noreply.github.com
+1|Karl Horky|karl.horky@gmail.com
+1|Karl Mikkelsen|karl@kingkarl.com
+1|Karpich Dmitry|karpich@gollard.ru
+1|Karthik Balakrishnan|karthikb351@gmail.com
+1|Karthik Chintapalli|karthik.chintapalli@gmail.com
+1|Kartik Lad|kartik@kartiklad.com
+1|Kateryna|k.porshnieva@gmail.com
+1|Kayla Ngan|kangan@microsoft.com
+1|Kaylee Knowles|kayleeknowles42@gmail.com
+1|Kazuhiro Sera|seratch@gmail.com
+1|KeicaM|zawiasam@users.noreply.github.com
+1|Ken Powers|ken@kenpowers.net
+1|Kenneth Chau|kenotron@users.noreply.github.com
+1|Kevin (Kun) "Kassimo" Qian|kevinkassimo@gmail.com
+1|Kevin Chavez|kevin9794@hotmail.com
+1|Kevin Cheng|09chengk@gmail.com
+1|Kevin Coughlin|kevintcoughlin@gmail.com
+1|Kevin Huang|huang.kev@gmail.com
+1|Kevin Lamping|klamping@gmail.com
+1|Kevin Lin|kevinslin8@gmail.com
+1|Kevin Robinson|krobinson@twitter.com
+1|Kevin Suttle|kevin@suttle.email
+1|Kewei Jiang|jkewei328@hotmail.com
+1|Keyan Zhang|kz5@indiana.edu
+1|Kier Borromeo|seraphipod@gmail.com
+1|KimCoding|jeokrang@hanmail.net
+1|Kit Randel|kit@nocturne.net.nz
+1|Kite|ixkaito@gmail.com
+1|Konstantin Yakushin|y231966mdk@gmail.com
+1|Koo Youngmin|youngmin@youngminz.kr
+1|Kristofer Selbekk|selbekk@users.noreply.github.com
+1|Kurt Furbush|kurtfurbush@gmail.com
+1|Kurt Ruppel|me@kurtruppel.com
+1|Kurt Weiberth|kweiberth@users.noreply.github.com
+1|KwonH|doublus@gmail.com
+1|Kyle Kelley|rgbkrk@gmail.com
+1|Laurence Rowe|laurence@lrowe.co.uk
+1|Laurent Etiemble|laurent.etiemble@monobjc.net
+1|Lee Sanghyeon|yongdamsh@gmail.com
+1|Leo Selig|dev.selig@gmail.com
+1|Leon Fedotov|LeonFedotov@users.noreply.github.com
+1|Leslie|xsw1024@yeah.net
+1|Levi McCallum|levi@levimccallum.com
+1|Lewis Blackwood|lewis.blackwood@gmail.com
+1|Liangzhen Zhu|zhudx6512@163.com
+1|Lily|qvang.j@gmail.com
+1|Linchengyi|zziteqaq@163.com
+1|Linus Unnebäck|linus@folkdatorn.se
+1|Liz|feministy@users.noreply.github.com
+1|Logan Allen|loganfynne@gmail.com
+1|Lovisa Svallingson|lovisasvallingson@gmail.com
+1|Lucas Azzola|derflatulator@gmail.com
+1|Lucas Lentz|lucas.lentz0306@gmail.com
+1|Ludovico Fischer|livrerie@gmail.com
+1|Luigy Leon|luichi.19@gmail.com
+1|Luke Belliveau|luke.belliveau@gmail.com
+1|Luke Horvat|lukehorvat@gmail.com
+1|Lutz Rosema|terabaud@gmail.com
+1|Léo Andrès|leo@ndrs.fr
+1|MICHAEL JACKSON|mjijackson@gmail.com
+1|MIKAMI Yoshiyuki|yoshuki@saikyoline.jp
+1|Maher Beg|maherbeg@gmail.com
+1|Marcelo Alves|selfmadecelo@gmail.com
+1|Marcelo Jorge Vieira|metal@alucinados.com
+1|Marcin Kwiatkowski|marcin.kwiatkowski@hotmail.com
+1|Marcin Mazurek|marcin@mazurek.pro
+1|Marcin Szczepanski|marcins@gmail.com
+1|Marcio Puga|marciopuga@gmail.com
+1|Marco|thtg88@users.noreply.github.com
+1|Marcos Ojeda|subliminal@gmail.com
+1|Marcy Sutton|holla@marcysutton.com
+1|Mario Schüttel|lxxxvi@users.noreply.github.com
+1|Mario Souto|mariosouto@outlook.com
+1|Marius Skaar Ludvigsen|marius.ludvigsen@gmail.com
+1|Mark Anderson|undernewmanagement@users.noreply.github.com
+1|Mark Hintz|markohintz@gmail.com
+1|Mark Murphy|murphy.mark@live.ca
+1|Mark Pedrotti|pedrottimark@gmail.com
+1|Mark Penner|mnpenner@users.noreply.github.com
+1|Mark Richardson|echo@fb.com
+1|Mark Rushakoff|mark@influxdb.com
+1|Mark Sun|sunmark14@gmail.com
+1|Marks Polakovs|marks@markspolakovs.me
+1|Marlon Landaverde|milanlandaverde@gmail.com
+1|Martin Hochel|hochelmartin@gmail.com
+1|Martin Konicek|mkonicek@fb.com
+1|Martin Mihaylov|martomi@users.noreply.github.com
+1|Martin V|ndresx@gmail.com
+1|Mateusz|kulek1@users.noreply.github.com
+1|Mathieu M-Gosselin|mathieumg@atx33.com
+1|Mathieu Savy|savy.mathieu@gmail.com
+1|Matias Larsson|matiasnu@gmail.com
+1|Matt|matt@brookes.net
+1|Matt Brookes|matt@brookes.net
+1|Matt Hamlin|hamlim@outlook.com
+1|Matt Huggins|matt.huggins@gmail.com
+1|Matt Stow|matt.stow@foxsports.com.au
+1|Matt Thomson|matt-thomson@users.noreply.github.com
+1|Matt Travi|github@travi.org
+1|Matthew|looi.matthew@gmail.com
+1|Matthew Herbst|mherbst@chegg.com
+1|Matthew Hodgson|matthew@matrix.org
+1|Matthew Johnston|matthewjohnston4@outlook.com
+1|Matthew King|mking@users.noreply.github.com
+1|Matthew Miner|matthew@matthewminer.com
+1|Matthew Shotton|matthew.shotton@bbc.co.uk
+1|Matthias Le Brun|mlbli@me.com
+1|Matti Nelimarkka|matti.nelimarkka@hiit.fi
+1|Mattijs|mattijs@arttech.nl
+1|Max Donchenko|wereya2@yandex.ru
+1|Max F. Albrecht|1@178.is
+1|Max Schmeling|schmeling88@gmail.com
+1|Maxi Ferreira|charca@gmail.com
+1|Maxim|gatilin222@gmail.com
+1|Maxim Abramchuk|MaximAbramchuck@gmail.com
+1|Maxime Nory|maximenory@yahoo.fr
+1|Maxwel D'souza|maxellusionist@gmail.com
+1|Merrick Christensen|merrick.christensen@gmail.com
+1|Michael Chan|mijoch@gmail.com
+1|Michael Jackson|mjijackson@gmail.com
+1|Michael O'Brien|mcobrien@users.noreply.github.com
+1|Michael Sinov|sihaelov@gmail.com
+1|Michael Terry|michael@michaelterry.org
+1|Michael Warner|MichaelJWarner@hotmail.com
+1|Michael Wiencek|mwtuea@gmail.com
+1|Michael Ziwisky|mikezx@gmail.com
+1|Michał Ordon|designorant@users.noreply.github.com
+1|Michele Bertoli|MicheleBertoli@users.noreply.github.com
+1|Michelle Todd|himichelletodd@gmail.com
+1|Michelle Todd|michelle@khanacademy.org
+1|Michiya|mhibino@users.noreply.github.com
+1|Mihai Parparita|mihai.parparita@gmail.com
+1|Mike Groseclose|mike.groseclose@gmail.com
+1|Mike Nordick|mnordick
+1|Mike Wilcox|mwilcox56@gmail.com
+1|Mikhail Osher|yo@miraage.io
+1|Mikolaj Dadela|mikolaj.dadela@hgv-online.de
+1|Minwei Xu|faceswilliam@gmail.com
+1|Miorel Palii|miorel@fb.com
+1|Mitchel Humpherys|mitch.special@gmail.com
+1|Moacir Rosa|paulomoacir.junior@gmail.com
+1|Mojtaba Dashtinejad|mojtaba@gmail.com
+1|Morhaus|alexandre.kirszenberg@gmail.com
+1|Moshe Kolodny|kolodny.github@gmail.com
+1|Murray M. Moss|MMoss@cainc.com
+1|Murray M. Moss|mmoss@users.noreply.github.com
+1|Márcio Vicente|marciovicente.filho@gmail.com
+1|NE-SmallTown|ne_smalltown@163.com
+1|Nadav Kaner|nadavkaner1@gmail.com
+1|Nadeesha Cabral|nadeesha.cabral@gmail.com
+1|Nadia--|figs.in.your.face@gmail.com
+1|Nate|nchristensen@deseretdigital.com
+1|Nate Lee|nathaniel.jy.lee88@gmail.com
+1|Nate Norberg|natenorberg@gmail.com
+1|Nathan Hardy|nhardy@users.noreply.github.com
+1|Nathan Schloss|n8s@fb.com
+1|Nathan Schloss|n8schloss@users.noreply.github.com
+1|Nathan Smith|NogsMPLS@users.noreply.github.com
+1|Neal Wright|Neal@Hendeca.com
+1|Nee|944316342@qq.com
+1|Neil Kistner|neil.kistner@gmail.com
+1|NestorTejero|webeafix@gmail.com
+1|Nguyen Truong Duy|truongduy134@yahoo.com
+1|Nicholas Clawson|nickclaw@users.noreply.github.com
+1|Nick Balestra|nickbalestra@users.noreply.github.com
+1|Nick Fitzgerald|fitzgen@gmail.com
+1|Nick Kasten|kastencode@gmail.com
+1|Nick Merwin|nick@lemurheavy.com
+1|Nick Presta|nick@nickpresta.ca
+1|Nick Thompson|ncthom91@gmail.com
+1|Nicolas Straub|nstraub@users.noreply.github.com
+1|Nikita Lebedev|bloomber111@gmail.com
+1|Niklas Boström|nbostrom@gmail.com
+1|Nikolay|catamphetamine@users.noreply.github.com
+1|Nikoloz Buligini|nbuligini11@gmail.com
+1|Nima Jahanshahi|nbjahan@gmail.com
+1|Niole Nelson|niolenelson@gmail.com
+1|Nish|nishantpatel611@gmail.com
+1|Nolan Lawson|nolan@nolanlawson.com
+1|OJ Kwon|kwon.ohjoong@gmail.com
+1|Oleksii Markhovskyi|olexiy.markhovsky@gmail.com
+1|Olivier Tassinari|Olivier.tassinari@gmail.com
+1|Omid Hezaveh|omidfi@users.noreply.github.com
+1|Ori Riner|OriR@users.noreply.github.com
+1|Oscar Bolmsten|oscar-b@users.noreply.github.com
+1|Oskari Mantere|osku.mantere@gmail.com
+1|Owen Conti|owen@ohseemedia.com
+1|Owen Coutts|owenc@fb.com
+1|Pablo Javier D. A|pdiaz@devpda.me
+1|Paolo Moretti|moretti@users.noreply.github.com
+1|Patrick|1919554+powens@users.noreply.github.com
+1|Patrick|info@telepark.de
+1|Patrick Finnigan|patrick.k.finnigan@gmail.com
+1|Patrick Laughlin|patrick@laughl.info
+1|PatrickJS|github@gdi2290.com
+1|Paul Benigeri|me@benigeri.com
+1|Paul Harper|benekastah@gmail.com
+1|Paul Kehrer|paul.l.kehrer@gmail.com
+1|Paul Manta|paulmanta@users.noreply.github.com
+1|Pelle Wessman|pelle@kodfabrik.se
+1|Pete Hunt|phunt@instagram.com
+1|Pete Nykänen|pete.a.nykanen@gmail.com
+1|Peter Blazejewicz|peter.blazejewicz@gmail.com
+1|Peter Cottle|pcottle@fb.com
+1|Peter Donald|peter@realityforge.org
+1|Peter Jaros|peter.a.jaros@gmail.com
+1|Peter Newnham|peter.newnham@appsbroker.com
+1|Peter Ruibal|ruibalp@gmail.com
+1|Petri Lehtinen|petri@digip.org
+1|Phil Quinn|philquinn90@gmail.com
+1|Phil Rajchgot|tophil@outlook.com
+1|Philip Jackson|p-jackson@live.com
+1|Philipp Spiess|hello@philippspiess.com
+1|Pieter Vanderwerff|me@pieter.io
+1|Pleun Vanderbauwhede|pleun.vdb@gmail.com
+1|Pontus Abrahamsson|info@wdlinkoping.se
+1|Pooya Parsa|pyapar@gmail.com
+1|Qin Junwen|kjj10@163.com
+1|RSG|Radi123@users.noreply.github.com
+1|Rachel D. Cartwright|stormchica@gmail.com
+1|Radu-Sebastian Amarie|raduamarie@gmail.com
+1|Rafael|rafael.garcia@clever.com
+1|Rafael Angeline|me@rafaelangeline.com
+1|Rafael Hovhannisyan|hovhannisian.rafael@gmail.com
+1|Rafał Ruciński|fatfisz@gmail.com
+1|Rahul Gupta|rahulgupta4@practo.com
+1|Rajat Sehgal|rajatsehgal1988@gmail.com
+1|Rajiv Tirumalareddy|rajivtreddy@gmail.com
+1|Ramón Chancay Ortega|ramon.chancay@gmail.com
+1|Randall Randall|randall@randallsquared.com
+1|Raymond Ha|raymond@shraymonks.com
+1|Redmond Tran|redmond.tran@gmail.com
+1|Reed Loden|reed@reedloden.com
+1|Reinier Hartog|r.m.hartog@hotmail.com
+1|Remko Tronçon|git@el-tramo.be
+1|Renan Valentin|renan.lifestyle@hotmail.com
+1|Rene Hangstrup Møller|rhmoller@gmail.com
+1|Ricardo|ddrjm@users.noreply.github.com
+1|Rich Harris|richard.a.harris@gmail.com
+1|Richard|riscarrott@googlemail.com
+1|Richard D. Worth|rdworth@gmail.com
+1|Richard Kho|hello@richardkho.com
+1|Richard Maisano|rickmaisano@gmail.com
+1|Richard Roncancio|batusai513@msn.com
+1|Rick Ford|rickfordrick@gmail.com
+1|Ricky|rickhanlonii@fb.com
+1|Ricky|rickhanlonii@gmail.com
+1|Ricky Reusser|rreusser@users.noreply.github.com
+1|Ricky Vetter|rickywvetter@gmail.com
+1|Robert Chang|cht8687@gmail.com
+1|Robert Kielty|rob.kielty@gmail.com
+1|Robert Martin|rmartin@rmart.in
+1|Robert Sedovsek|robert.sedovsek@gmail.com
+1|Rodrigo Bermúdez Schettino|rodrigobdz@users.noreply.github.com
+1|Rodrigo Ribeiro|rodriguinho@jusbrasil.com.br
+1|Rohan Nair|rohan@objectiveiq.com
+1|Roman Hotsiy|gotsijroman@gmail.com
+1|Roman Liutikov|roman01la@romanliutikov.com
+1|Roman Pominov|rpominov+github@gmail.com
+1|Roman Vanesyan|roman.vanesyan@gmail.com
+1|Romello Goodman|romellogood@gmail.com
+1|Rouven Weßling|me@rouvenwessling.de
+1|Royi Hagigi|rhagigi@gmail.com
+1|Rui Araújo|ruka.araujo@gmail.com
+1|Russ|russwirtz@gmail.com
+1|Ruud Burger|ruud@crashdummy.nl
+1|Ryan Florence|rpflorence@gmail.com
+1|Ryan Lahfa|masterancpp@gmail.com
+1|Ryan Seddon|seddon.ryan@gmail.com
+1|Ryo Shibayama|j02521@gmail.com
+1|SToneX|stonexer@users.noreply.github.com
+1|Sahat Yalkabov|sakhat@gmail.com
+1|Saif Hakim|saif@benchling.com
+1|Saiichi Hashimoto|saiichihashimoto@gmail.com
+1|Sakina Crocker|sakinac@gmail.com
+1|Sam Goldman|samwgoldman@gmail.com
+1|Sam Kvale|skvale@widen.com
+1|Sam Saccone|samccone@gmail.com
+1|SamCortopassi|43301907+SamCortopassi@users.noreply.github.com
+1|Samangan|harry.hull1@gmail.com
+1|Samer Buna|samerbuna@users.noreply.github.com
+1|Samuel|savepointsam@gmail.com
+1|Samuel Hapák|samuel.hapak@gmail.com
+1|Samuel Scheiderich|samsch@users.noreply.github.com
+1|Samy Al Zahrani|samy@sadeem.net
+1|Samy Al Zahrani|samyalzahrany@gmail.com
+1|Santosh Venkatraman|santosh.venk@gmail.com
+1|Sassan Haradji|sassanh@gmail.com
+1|Satoshi Nakajima|satoshi.nakajima@gmail.com
+1|Scott|scottdomes@gmail.com
+1|Sean Gransee|sean.gransee@gmail.com
+1|Sean Kinsey|oyvind@fb.com
+1|Sean Smith|sean.smith.2009@gmail.com
+1|Semen Zhydenko|simeon.zhidenko@gmail.com
+1|Sen Yang|jasonslyvia@gmail.com
+1|Senin Roman|Rastopyr@gmail.com
+1|Seoh Char|devthewild@gmail.com
+1|Sercan Eraslan|sercan.eraslan@sahibinden.com
+1|Serg|undrdog@yandex.ru
+1|Sergei Startsev|ai@programist.ru
+1|Sergey Generalov|sergey@genbit.ru
+1|Sergey R|chi187@gmail.com
+1|Seyi|theseyi@users.noreply.github.com
+1|Shaun Trennery|shaun.trennery@gmail.com
+1|Sheraz|undernewmanagement@users.noreply.github.com
+1|Shirshak Bajgain|bloggervista@gmail.com
+1|Shota Kubota|kubosho@users.noreply.github.com
+1|Shuhei Kagawa|shuhei.kagawa@gmail.com
+1|Sibi|psibi2000@gmail.com
+1|Simon Welsh|simon@simon.geek.nz
+1|Simone Vittori|hello@simonewebdesign.it
+1|Skasi|skasski@gmx.at
+1|Snowmanzzz(Zhengzhong Zhao)|zhengzhongzhao@gmail.com
+1|Sophia|szensius@gmail.com
+1|Sophia Westwood|sophia@quip.com
+1|Spen Taylor|spen_@hotmail.co.uk
+1|Spencer Davies|spencer1573@users.noreply.github.com
+1|Spencer Handley|spencerhandley@gmail.com
+1|Spencer Miskoviak|Skovy@users.noreply.github.com
+1|Spyros Ioakeimidis|spyrosikmd@gmail.com
+1|Stephen John Sorensen|spudly@users.noreply.github.com
+1|Stephie|Stephie@users.noreply.github.com
+1|Sterling Cobb|sterlingcobb@gmail.com
+1|Steve Mao|maochenyan@gmail.com
+1|Steven Frieson|sfrieson@gmail.com
+1|Steven Luscher|steveluscher@fb.com
+1|Steven Syrek|sjsyrek@users.noreply.github.com
+1|Steven Vachon|contact@svachon.com
+1|Stolenkid|stolen.kid7@gmail.com
+1|Stuart Harris|stuart.harris@red-badger.com
+1|SunHuawei|stonesun@aliyun.com
+1|Sundeep Malladi|sundeep.malladi@gmail.com
+1|Sung Won Cho|mikeswcho@gmail.com
+1|Sunny Juneja|me@sunnyjuneja.com
+1|Sunny Ripert|sunny@sunfox.org
+1|Superlaziness|shemyakin@me.com
+1|Swaroop SM|swaroop.striker@gmail.com
+1|Syed Fazle Rahman|Fazlerahman786@gmail.com
+1|Taegon Kim|gonom9@gmail.com
+1|Tanner|devtanc@gmail.com
+1|TedPowers|TedPowers@users.noreply.github.com
+1|Tetsuharu OHZEKI|saneyuki.s.snyk@gmail.com
+1|Tetsuya Hasegawa|tetsuya.chicago@gmail.com
+1|Thiago Galvani|thiagopaiva99@gmail.com
+1|Thibault Malbranche|thibault.malbranche@epitech.eu
+1|Thibaut Rizzi|zoom@rhizom.fr
+1|Thomas Boyt|thomas.boyt@venmo.com
+1|Thomas Broyer|t.broyer@ltgt.net
+1|Thomas Reggi|socialtr@gmail.com
+1|Thomas Röggla|t.roggla@cwi.nl
+1|Thomas Shafer|thomasjshafer@gmail.com
+1|Tiago Fernandez|tiago.fernandez@gmail.com
+1|Tiago Nunes|tiagosbnunes@gmail.com
+1|Tienchai Wirojsaksaree|tienchai@fb.com
+1|Tim Schaub|tschaub@users.noreply.github.com
+1|Timur Carpeev|timuric@users.noreply.github.com
+1|Tobias Reiss|tag+github@basecode.de
+1|Tom|tom@tomm.cc
+1|Tom Duncalf|tom@tomduncalf.com
+1|Tom Gasson|tom.gasson@arup.com
+1|Tom Haggie|thaggie@gmail.com
+1|Tom Hauburger|thauburger@gmail.com
+1|Tom MacWright|tom@macwright.org
+1|Tomáš Hromada|Gyfis@seznam.cz
+1|Tony Rossi|tony@iamrossi.com
+1|Tony Spiro|tspiro@tonyspiro.com
+1|Trinh Hoang Nhu|trinhhoangnhu@gmail.com
+1|Trivikram Kamat|16024985+trivikr@users.noreply.github.com
+1|Tsung Hung|thung@me.com
+1|Tyler Brock|tyler.brock@gmail.com
+1|Tyler Buchea|tyler@buchea.com
+1|Tyler Deitz|tylerdeitz@gmail.com
+1|Ujjwal Ojha|ojhaujjwal@users.noreply.github.com
+1|Uladzimir Havenchyk|uladzimir@toptal.com
+1|Usman|syedusmanajmal@gmail.com
+1|Ustin Zarubin|ustin.zarubin@campusbellhops.com
+1|Vadim Chernysh|chernysh.vadim@gmail.com
+1|Valentin Shergin|valentin@shergin.com
+1|Van der Auwermeulen Grégoire|gregoirevandera@gmail.com
+1|Varayut Lerdkanlayanawat|l.varayut@gmail.com
+1|Varun Bhuvanendran|varunbhuvanendran@users.noreply.github.com
+1|Varun Rau|varunrau@gmail.com
+1|Vasiliy Loginevskiy|yeti-or@yandex-team.ru
+1|Vedat Mahir YILMAZ|mahir@vedatmahir.com
+1|Veekas Shrivastava|veekas@veekasmeansprogress.com
+1|Veljko Tornjanski|tornjanski.veljko@gmail.com
+1|Veniamin Krol|153412+vkrol@users.noreply.github.com
+1|Vesa Laakso|laakso.vesa@gmail.com
+1|Vicky Chijwani|vickychijwani@gmail.com
+1|Victor Homyakov|vkhomyackov@gmail.com
+1|Victor Koenders|victor.koenders@gmail.com
+1|Victoria Quirante|victoria.quirante@gmail.com
+1|Vikash Agrawal|vikashagrawal1990@gmail.com
+1|Vincent Siao|vincent@asana.com
+1|Vincent Taing|taing.vincent@gmail.com
+1|Vitaliy Potapov|noginsk@rambler.ru
+1|Vitaly Kramskikh|vkramskikh@gmail.com
+1|Vladimir Kovpak|cn007b@gmail.com
+1|Vladimir Tikunov|vtikunov@yandex.ru
+1|Vladimir Tsibizow|vladimir.tsibizow@gmail.com
+1|WU Jun|quark@lihdd.net
+1|WanderWang|wander.wang@ismole.com
+1|Wayne Larsen|wayne@larsen.st
+1|Weizenlol|winliveweiz@gmail.com
+1|WickyNilliams|WickyNilliams@MBA
+1|Will Myers|will@usebutton.com
+1|William Hoffmann|whoffpen@gmail.com
+1|Wincent Colaiuta|win@wincent.com
+1|Wout Mertens|Wout.Mertens@gmail.com
+1|XaveScor|XaveScor@gmail.com
+1|XuMM_12|owiatsq@sina.cn
+1|Yakov Dalinchuk|murashki@users.noreply.github.com
+1|Yan Li|mangakjd@gmail.com
+1|Yasar icli|hello@yasaricli.com
+1|Yaxian|yaxian.gu@gmail.com
+1|Yi-Shan, Chen|pipio1994@gmail.com
+1|Youngchan Je|ochanje210@gmail.com
+1|Yunchan Cho|chan376@gmail.com
+1|Yura Chuchola|smhfanda@gmail.com
+1|Yurick|yurick.hauschild@gmail.com
+1|Yuriy Dybskiy|yuriy@dybskiy.com
+1|Yusong Liu|lysnku@gmail.com
+1|Yuval Dekel|thedekel@fb.com
+1|ZYSzys|zyszys98@gmail.com
+1|Zac Braddy|zacharybraddy@gmail.com
+1|Zac Smith|billyzacsmith@gmail.com
+1|Zach Bruggeman|zbruggeman@me.com
+1|Zach Ramaekers|zramaekers@gmail.com
+1|Zacharias|zachasme@users.noreply.github.com
+1|Zeke Sikelianos|zeke@sikelianos.com
+1|Zhangjd|zhang.jd@qq.com
+1|Zubair Ahmed|ahmedzubair216@gmail.com
+1|abiduzz420|abiduzair420@gmail.com
+1|adraeth|jerzy.mirecki@gmail.com
+1|alexpien|alexpien@gmail.com
+1|alexpien|pien@pien-mbp.dhcp.thefacebook.com
+1|alexpien|pien@pien-mbp.local
+1|alisherdavronov|alisher.davronov@gmail.com
+1|amykyta|dancingwithcows@gmail.com
+1|andres suarez|zertosh@gmail.com
+1|andrewsokolov|asokolov@atlassian.com
+1|andreysaleba|andreysaleba@noorsoft.ru
+1|arush|arush@ilovebrands.net
+1|azure provisioned user|rreverser@ubuntu.rreverser.a4.internal.cloudapp.net
+1|bee0060|bee0060@126.com
+1|bel3atar|bel3atar@aol.com
+1|blainekasten|blainekasten@gmail.com
+1|brafdlog|brafdlog@gmail.com
+1|brillout|brillout@users.noreply.github.com
+1|chen|kikyous@163.com
+1|chocolateboy|chocolate@cpan.org
+1|chun shang|springuper@gmail.com
+1|cjshawMIT|cjshaw@mit.edu
+1|claudiopro|claudio.procida@gmail.com
+1|cloudy1|mohaned@cloudypedia.com
+1|codesuki|marschik_neri@cyberagent.co.jp
+1|comerc|comerc@users.noreply.github.com
+1|cookfront|cookfront@gmail.com
+1|cristidrg|cristiandrg96@gmail.com
+1|csbok|winmain@gmail.com
+1|cutbko|kutsenko.eugene@hotmail.com
+1|davidblnc|40642621+davidblnc@users.noreply.github.com
+1|davidxi|davidgraycn@gmail.com
+1|dfrownfelter|davidrfrownfelter@gmail.com
+1|djskinner|skinner@destiny-denied.co.uk
+1|dmitry|dmitri.blyus@gmail.com
+1|dongmeng.ldm|dongmeng.ldm@alibaba-inc.com
+1|dongyuwei|newdongyuwei@gmail.com
+1|dortonway|dortonway@gmail.com
+1|einarq|einar.paul.qvale@gmail.com
+1|enome|geert.pasteels@gmail.com
+1|evanc|evan@paloalto.com
+1|fnll|leafdog.js@gmail.com
+1|fxbois|fxbois@gmail.com
+1|georgesisco|george.sisco@gmail.com
+1|gillchristian|gillchristiang@gmail.com
+1|heikkilamarko|heikkila_marko@hotmail.com
+1|himkt|himkt@klis.tsukuba.ac.jp
+1|hjmoss|hjmoss@users.noreply.github.com
+1|iamdoron|doronpagot@gmail.com
+1|iawia002|850127508@qq.com
+1|imjanghyuk|im.janghyuk@gmail.com
+1|inkinworld|inkinworld@live.com
+1|iurii kucherov|yuyokk@gmail.com
+1|jaaberg|aaberg89@gmail.com
+1|jbrantly|james@jbrantly.com
+1|jhiswin|jhiswin@gmail.com
+1|jiyeonseo|zzzeons@gmail.com
+1|jj|jj.weber@gmail.com
+1|jjt|jason@jasontrill.com
+1|jon madison|jon@tfftech.com
+1|jonchester|jonchester@fb.com
+1|jquense|monastic.panic@gmail.com
+1|jrobison|jrobison151@gmail.com
+1|jsfb|jsproch@fb.com
+1|juan serrano|germ13@users.noreply.github.com
+1|jwbay|jwbay@users.noreply.github.com
+1|karczk|karcz.k@gmail.com
+1|katzoo|katzoo@github.mail
+1|koh-taka|koh-taka@users.noreply.github.com
+1|kohashi85|hako584@gmail.com
+1|krystian.karczewski|karcz.k@gmail.com
+1|ksvitkovsky|ksvitkovsky@yandex.ru
+1|laiso|laiso@lai.so
+1|lamo2k123|lamo2k123@gmail.com
+1|landvibe|landvibe@podotree.com
+1|leeyoungalias|leeyoungalias@qq.com
+1|liudongsheng|bellanchor@gmail.com
+1|liunian|dengjij@gmail.com
+1|locknono|39038992+locknono@users.noreply.github.com
+1|lokson|kapustka.maciek@gmail.com
+1|lucas|lucas.aragno157@gmail.com
+1|lunaruan|eloquent.mayhem@gmail.com
+1|martinandert|mandert@gmail.com
+1|matchu|matchu1993@gmail.com
+1|matej|strahek@gmail.com
+1|maxprafferty|maxprafferty@gmail.com
+1|mdogadailo|m.dogadailo@gmail.com
+1|mfijas|michal.fijas@gmail.com
+1|mguidotto|j8.matteo@gmail.com
+1|mheiber|max.heiber@gmail.com
+1|mondaychen|monday.chen@gmail.com
+1|najisawas|naji_sawas@gmx.com
+1|nakazye|nakazye@gmail.com
+1|neeldeep|neeldeep@users.noreply.github.com
+1|newvlad|vladdr@live.com
+1|nhducit|nhducit@users.noreply.github.com
+1|nico|nicosommi@gmail.com
+1|ogom|ogom@outlook.com
+1|overlookmotel|j@dummett.org
+1|pingan1927|pengsencai1986@gmail.com
+1|plievone|pete@screen.io
+1|plievone|petri.lievonen@tkk.fi
+1|pyitphyoaung|pyitphyoaung@users.noreply.github.com
+1|rainer oviir|raineroviir@rainers-MacBook-Pro.local
+1|rgarifullin|ringarifullin@gmail.com
+1|rivenhk|adamsau@hotmail.com.hk
+1|robarnold|robarnold@cs.cmu.edu
+1|saiyagg|saiyagg@gmail.com
+1|scloudyy|onecloud.shen@gmail.com
+1|segmentationfaulter|segmentationfaulter@users.noreply.github.com
+1|shifengchen|shifengchen10@gmail.com
+1|shubham|3644720+shubhamgautam@users.noreply.github.com
+1|skratchdot|git@skratchdot.com
+1|songawee|dennis@songawee.com
+1|sottar|ohrst.18@gmail.com
+1|speedskater|speedskater@users.noreply.github.com
+1|starkch|chip.stark@autodesk.com
+1|sugarshin|shinsugar@gmail.com
+1|terry3|tfguo369@gmail.com
+1|thorn0|thorn.mailbox@gmail.com
+1|tmysz|tmysz.dev@gmail.com
+1|translucens|mail@w-st.com
+1|ventuno|ventuno@users.noreply.github.com
+1|wacii|w.a.cunningham.ii@gmail.com
+1|wali-s|ahmad3y2k@hotmail.com
+1|walrusfruitcake|walrusfruitcake@users.noreply.github.com
+1|watadarkstar|adrian.caarolli@gmail.com
+1|xixixao|xixixao@seznam.cz
+1|xmo-odoo|xmo-odoo@users.noreply.github.com
+1|xxin|xxin@groupon.com
+1|yongningfu|535802703@qq.com
+1|youmoo|youmoolee@gmail.com
+1|yuanyan|yuanyan@users.noreply.github.com
+1|yuntao.qyt|yuntao.qyt@alibaba-inc.com
+1|z.ky|zky829@users.noreply.github.com
+1|zhangjg|jinguozhang@qq.com
+1|zhangs|zhangtreefish@yahoo.com
+1|zhuoli99|31378877+zhuoli99@users.noreply.github.com
+1|俞火江|740531372@qq.com
+1|却痕|yuntao.qyt@alibaba-inc.com
+1|张敏|cookfront@gmail.com
+1|王晓勇|Plortinus@gmail.com
+1|砖家|576679268@qq.com
+1|龙海燕|1250766229@qq.com
